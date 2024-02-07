@@ -1,4 +1,4 @@
-package Arrays.Find_the_Largest_Number_in_an_Array;
+package Easy.Find_the_Largest_Number_in_an_Array;
 
 import java.util.Arrays;
 

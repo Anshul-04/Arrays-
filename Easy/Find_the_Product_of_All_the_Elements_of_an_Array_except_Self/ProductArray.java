@@ -1,4 +1,4 @@
-package Arrays.Find_the_Product_of_All_the_Elements_of_an_Array_except_Self;
+package Easy.Find_the_Product_of_All_the_Elements_of_an_Array_except_Self;
 
 import java.util.Arrays;
 

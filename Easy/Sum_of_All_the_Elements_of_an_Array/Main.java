@@ -1,4 +1,4 @@
-package Arrays.Sum_of_All_the_Elements_of_an_Array ;
+package Easy.Sum_of_All_the_Elements_of_an_Array ;
 
 import java.util.Arrays;
 
@@ -8,7 +8,10 @@ public class Main {
     public static void main(String[] args) {
         int[] arr = {5,6,2,4,1};
         System.out.println("Original Array : "+Arrays.toString(arr));       
-        sumArray(arr);        
+        sumArray(arr);   
+        
+        // int num = 2%1;
+        // System.out.println(num);
     }
 
     public static void sumArray(int[] a){
